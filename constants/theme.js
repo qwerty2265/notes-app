@@ -15,3 +15,5 @@ const FONT = {
     medium: "UbuntuMedium",
     bold: "UbuntuBold"
 }
+
+export { COLORS, FONT };
